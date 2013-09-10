@@ -16,7 +16,7 @@ int compare(char s[][11],int n)
             for(k=0;k<len;k++) 
             {
                 if(s[i][k]!=s[j][k])
-				{
+                {
                     flag=1;
                     break;
                 }
